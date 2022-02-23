@@ -1,0 +1,5 @@
+C:\Users\Patrick Raftery\source\repos\Materials Estimator\obj\Debug\net5.0-windows\Materials Estimator.csproj.AssemblyReference.cache
+C:\Users\Patrick Raftery\source\repos\Materials Estimator\obj\Debug\net5.0-windows\Materials Estimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick Raftery\source\repos\Materials Estimator\obj\Debug\net5.0-windows\Materials Estimator.AssemblyInfoInputs.cache
+C:\Users\Patrick Raftery\source\repos\Materials Estimator\obj\Debug\net5.0-windows\Materials Estimator.AssemblyInfo.cs
+C:\Users\Patrick Raftery\source\repos\Materials Estimator\obj\Debug\net5.0-windows\Materials Estimator.csproj.CoreCompileInputs.cache
