@@ -6,5 +6,30 @@ namespace Materials_Estimator
         {
             InitializeComponent();
         }
+
+        private void enterButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void removeButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clearAllButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void saveButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

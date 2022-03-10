@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tough\\Documents\\College Dir\\SDev using C#\\Group Project\\Materials Estimator GUI\\Materials Estimator\\Materials Estimator.csproj",
+      "projectUniqueName": "F:\\College\\Materials Estimator GUI\\Materials Estimator\\Materials Estimator.csproj",
       "projectName": "Materials Estimator",
-      "projectPath": "C:\\Users\\tough\\Documents\\College Dir\\SDev using C#\\Group Project\\Materials Estimator GUI\\Materials Estimator\\Materials Estimator.csproj",
+      "projectPath": "F:\\College\\Materials Estimator GUI\\Materials Estimator\\Materials Estimator.csproj",
       "packagesPath": "C:\\Users\\tough\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tough\\Documents\\College Dir\\SDev using C#\\Group Project\\Materials Estimator GUI\\Materials Estimator\\obj\\",
+      "outputPath": "F:\\College\\Materials Estimator GUI\\Materials Estimator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tough\\AppData\\Roaming\\NuGet\\NuGet.Config",
