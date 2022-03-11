@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9pOCyEcAUC5yJ/T38CjIokVIhhl/9eRP4HT2q6Uimm5r6+G4qLJSPJTRgq6R0ih9lqXZ+PasN+oK8f/FgWPojg==",
+  "success": true,
+  "projectFilePath": "F:\\College\\Group Project\\Materials Estimator GUI\\Materials Estimator GUI\\Materials Estimator GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tough\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
