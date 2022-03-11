@@ -1,0 +1,35 @@
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.exe
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.deps.json
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.runtimeconfig.json
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.runtimeconfig.dev.json
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.dll
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\ref\Materials Estimator GUI.dll
+F:\College\Group Project\Merge Test\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.pdb
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.csproj.AssemblyReference.cache
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials_Estimator_GUI.Form1.resources
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.csproj.GenerateResource.cache
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.AssemblyInfoInputs.cache
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.AssemblyInfo.cs
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.csproj.CoreCompileInputs.cache
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.dll
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\ref\Materials Estimator GUI.dll
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.pdb
+F:\College\Group Project\Merge Test\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.genruntimeconfig.cache
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.exe
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.deps.json
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.runtimeconfig.json
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.runtimeconfig.dev.json
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.dll
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\ref\Materials Estimator GUI.dll
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\bin\Debug\net5.0-windows\Materials Estimator GUI.pdb
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials_Estimator_GUI.Form1.resources
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.csproj.GenerateResource.cache
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.AssemblyInfoInputs.cache
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.AssemblyInfo.cs
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.csproj.CoreCompileInputs.cache
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.dll
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\ref\Materials Estimator GUI.dll
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.pdb
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.genruntimeconfig.cache
