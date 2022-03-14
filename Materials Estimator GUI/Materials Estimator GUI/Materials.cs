@@ -53,6 +53,12 @@ namespace Materials_Estimator
             this.GrandTotal = total;
             return total;
         }
+
+        /*
+         * Note: may be able to clear data in arrays by reassigning
+         *  # of elements in them; resets value of all elements in
+         *  array to defaults
+        */
         public void ClearMaterialList()
         {
             for (int x = 0; x < this.MaterialList.Length; ++x)
