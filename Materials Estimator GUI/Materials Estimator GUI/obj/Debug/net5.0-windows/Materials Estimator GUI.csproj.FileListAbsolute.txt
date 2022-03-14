@@ -33,3 +33,4 @@ F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Deb
 F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\ref\Materials Estimator GUI.dll
 F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.pdb
 F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.genruntimeconfig.cache
+F:\College\Group Project\Materials Estimator GUI\Materials Estimator GUI\obj\Debug\net5.0-windows\Materials Estimator GUI.csproj.AssemblyReference.cache
