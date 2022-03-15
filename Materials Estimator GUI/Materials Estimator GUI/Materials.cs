@@ -1,3 +1,5 @@
+/*
+ * Moved to "Form1.cs"
 using System;
 
 namespace Materials_Estimator
@@ -59,6 +61,7 @@ namespace Materials_Estimator
          *  # of elements in them; resets value of all elements in
          *  array to defaults
         */
+/*
         public void ClearMaterialList()
         {
             for (int x = 0; x < this.MaterialList.Length; ++x)
@@ -436,3 +439,4 @@ namespace Materials_Estimator
 
 
 }
+*/
