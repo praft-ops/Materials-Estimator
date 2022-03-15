@@ -36,7 +36,7 @@
             this.insulationTotalLabel = new System.Windows.Forms.Label();
             this.hvacTotalLabel = new System.Windows.Forms.Label();
             this.flooringTotalLabel = new System.Windows.Forms.Label();
-            this.electricTotalAmtLabel = new System.Windows.Forms.Label();
+            this.electricTotalLabel = new System.Windows.Forms.Label();
             this.plumbingLabel = new System.Windows.Forms.Label();
             this.masonryLabel = new System.Windows.Forms.Label();
             this.landscapeLabel = new System.Windows.Forms.Label();
@@ -66,11 +66,12 @@
             // grandTotalAmtLabel
             // 
             this.grandTotalAmtLabel.AutoSize = true;
+            this.grandTotalAmtLabel.BackColor = System.Drawing.SystemColors.Control;
             this.grandTotalAmtLabel.Location = new System.Drawing.Point(889, 341);
             this.grandTotalAmtLabel.Name = "grandTotalAmtLabel";
-            this.grandTotalAmtLabel.Size = new System.Drawing.Size(12, 15);
+            this.grandTotalAmtLabel.Size = new System.Drawing.Size(27, 15);
             this.grandTotalAmtLabel.TabIndex = 63;
-            this.grandTotalAmtLabel.Text = "?";
+            this.grandTotalAmtLabel.Text = "null";
             // 
             // categoryTotalsLabel
             // 
@@ -86,63 +87,63 @@
             this.plumbingTotalLabel.AutoSize = true;
             this.plumbingTotalLabel.Location = new System.Drawing.Point(1021, 472);
             this.plumbingTotalLabel.Name = "plumbingTotalLabel";
-            this.plumbingTotalLabel.Size = new System.Drawing.Size(12, 15);
+            this.plumbingTotalLabel.Size = new System.Drawing.Size(13, 15);
             this.plumbingTotalLabel.TabIndex = 61;
-            this.plumbingTotalLabel.Text = "?";
+            this.plumbingTotalLabel.Text = "0";
             // 
             // masonryTotalLabel
             // 
             this.masonryTotalLabel.AutoSize = true;
             this.masonryTotalLabel.Location = new System.Drawing.Point(1015, 439);
             this.masonryTotalLabel.Name = "masonryTotalLabel";
-            this.masonryTotalLabel.Size = new System.Drawing.Size(12, 15);
+            this.masonryTotalLabel.Size = new System.Drawing.Size(13, 15);
             this.masonryTotalLabel.TabIndex = 60;
-            this.masonryTotalLabel.Text = "?";
+            this.masonryTotalLabel.Text = "0";
             // 
             // landscapeTotalLabel
             // 
             this.landscapeTotalLabel.AutoSize = true;
             this.landscapeTotalLabel.Location = new System.Drawing.Point(1025, 403);
             this.landscapeTotalLabel.Name = "landscapeTotalLabel";
-            this.landscapeTotalLabel.Size = new System.Drawing.Size(12, 15);
+            this.landscapeTotalLabel.Size = new System.Drawing.Size(13, 15);
             this.landscapeTotalLabel.TabIndex = 59;
-            this.landscapeTotalLabel.Text = "?";
+            this.landscapeTotalLabel.Text = "0";
             // 
             // insulationTotalLabel
             // 
             this.insulationTotalLabel.AutoSize = true;
             this.insulationTotalLabel.Location = new System.Drawing.Point(881, 500);
             this.insulationTotalLabel.Name = "insulationTotalLabel";
-            this.insulationTotalLabel.Size = new System.Drawing.Size(12, 15);
+            this.insulationTotalLabel.Size = new System.Drawing.Size(13, 15);
             this.insulationTotalLabel.TabIndex = 58;
-            this.insulationTotalLabel.Text = "?";
+            this.insulationTotalLabel.Text = "0";
             // 
             // hvacTotalLabel
             // 
             this.hvacTotalLabel.AutoSize = true;
             this.hvacTotalLabel.Location = new System.Drawing.Point(855, 472);
             this.hvacTotalLabel.Name = "hvacTotalLabel";
-            this.hvacTotalLabel.Size = new System.Drawing.Size(12, 15);
+            this.hvacTotalLabel.Size = new System.Drawing.Size(13, 15);
             this.hvacTotalLabel.TabIndex = 57;
-            this.hvacTotalLabel.Text = "?";
+            this.hvacTotalLabel.Text = "0";
             // 
             // flooringTotalLabel
             // 
             this.flooringTotalLabel.AutoSize = true;
             this.flooringTotalLabel.Location = new System.Drawing.Point(867, 439);
             this.flooringTotalLabel.Name = "flooringTotalLabel";
-            this.flooringTotalLabel.Size = new System.Drawing.Size(12, 15);
+            this.flooringTotalLabel.Size = new System.Drawing.Size(13, 15);
             this.flooringTotalLabel.TabIndex = 56;
-            this.flooringTotalLabel.Text = "?";
+            this.flooringTotalLabel.Text = "0";
             // 
-            // electricTotalAmtLabel
+            // electricTotalLabel
             // 
-            this.electricTotalAmtLabel.AutoSize = true;
-            this.electricTotalAmtLabel.Location = new System.Drawing.Point(867, 403);
-            this.electricTotalAmtLabel.Name = "electricTotalAmtLabel";
-            this.electricTotalAmtLabel.Size = new System.Drawing.Size(12, 15);
-            this.electricTotalAmtLabel.TabIndex = 55;
-            this.electricTotalAmtLabel.Text = "?";
+            this.electricTotalLabel.AutoSize = true;
+            this.electricTotalLabel.Location = new System.Drawing.Point(867, 403);
+            this.electricTotalLabel.Name = "electricTotalLabel";
+            this.electricTotalLabel.Size = new System.Drawing.Size(13, 15);
+            this.electricTotalLabel.TabIndex = 55;
+            this.electricTotalLabel.Text = "0";
             // 
             // plumbingLabel
             // 
@@ -323,7 +324,6 @@
             this.itemCategoryComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.itemCategoryComboBox.FormattingEnabled = true;
             this.itemCategoryComboBox.Items.AddRange(new object[] {
-            "",
             "Electric",
             "Flooring",
             "HVAC",
@@ -363,7 +363,7 @@
             this.Controls.Add(this.insulationTotalLabel);
             this.Controls.Add(this.hvacTotalLabel);
             this.Controls.Add(this.flooringTotalLabel);
-            this.Controls.Add(this.electricTotalAmtLabel);
+            this.Controls.Add(this.electricTotalLabel);
             this.Controls.Add(this.plumbingLabel);
             this.Controls.Add(this.masonryLabel);
             this.Controls.Add(this.landscapeLabel);
@@ -406,7 +406,7 @@
         private System.Windows.Forms.Label insulationTotalLabel;
         private System.Windows.Forms.Label hvacTotalLabel;
         private System.Windows.Forms.Label flooringTotalLabel;
-        private System.Windows.Forms.Label electricTotalAmtLabel;
+        private System.Windows.Forms.Label electricTotalLabel;
         private System.Windows.Forms.Label plumbingLabel;
         private System.Windows.Forms.Label masonryLabel;
         private System.Windows.Forms.Label landscapeLabel;
